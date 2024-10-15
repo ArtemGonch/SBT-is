@@ -1,4 +1,3 @@
-bash
 #!/bin/bash
 
 monitor_directory="store_csv"
